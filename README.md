@@ -3,7 +3,7 @@
   <b>A Software Developer at the University of Alberta</b>
 </p>
 
-- 👀 I’m interested in utilizing Graph Neural Networks
+- 👀 I’m interested in utilizing Graph Neural Networks for processing graphical data
 - 🌱 I’m currently learning PyTorch and Java
 - 💞️ I’m looking to collaborate on CNN projects
 - 📫 How to reach me sehejbrar0@gmail.com
