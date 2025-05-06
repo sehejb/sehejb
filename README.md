@@ -61,8 +61,7 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p align="left">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehejb&theme=dark" alt="GitHub Streak Stats" width="48%" height="190" /> -->
+<p align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=sehejb&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" height="190"/>
 </p>
 
