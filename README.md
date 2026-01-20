@@ -61,12 +61,8 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p align="middle">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sehejb&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" height="190"/>
-</p>
-
-<p align="middle">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sehejb&theme=dark-minimalist" alt="GitHub Streak" /></a>
 </p>
 
 <!---
