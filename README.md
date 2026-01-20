@@ -65,8 +65,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sehejb&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" height="190"/>
 </p>
 
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sehejb)](https://git.io/streak-stats)
+<p align="middle">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sehejb&theme=dark-minimalist" alt="GitHub Streak" /></a>
+</p>
 
 <!---
 sehejb/sehejb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
