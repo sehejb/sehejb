@@ -60,7 +60,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:--->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sehejb&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" height="190"/>
 </p> -->
